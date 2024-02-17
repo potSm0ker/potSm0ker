@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @potSm0ker
+- 👋
 - I like code that can interact with real things in the physical world, i enjoy bridging the gap between the digital and the physical universe. I want to weld together the digital and physical world until we can't tell the difference between the two.
 - 
 - 👀 I’m interested in python, yahoo towers, java, javascript, gaming,  ...
